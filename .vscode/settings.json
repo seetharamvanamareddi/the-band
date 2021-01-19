@@ -1,0 +1,6 @@
+{
+  "editor.matchBrackets": "never",
+  "html.hover.references": false,
+  "html.hover.documentation": false,
+  "editor.lineHeight": 23
+}
